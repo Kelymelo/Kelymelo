@@ -1,4 +1,4 @@
-## Hi Hello I'm Kely Oliveira!
+## Hello I'm Kely Oliveira!
 
 <div align="center">
   <a href="https://github.com/kelymelo">
